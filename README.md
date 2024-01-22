@@ -17,6 +17,7 @@ El proyecto tiene la siguiente estructura de directorios:
 - `vite.config.js`: La configuración de Vite para este proyecto.
 
 ## Cómo empezar
+Para clonar el proyecto debemos ejecutar el comando git clone https://github.com/TomasTaborda/ChallengeOrigin.git
 
 1. Instala las dependencias con `npm install`.
 2. Inicia el servidor de desarrollo con `npm run dev`.
