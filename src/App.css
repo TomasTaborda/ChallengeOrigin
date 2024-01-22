@@ -1,0 +1,52 @@
+.MuiInput-underline {
+    border-bottom: 1px solid #4e6b9d !important;
+  }
+  
+  .MuiInput-underline::before {
+    border-bottom: 1px solid #4e6b9d !important;
+  }
+  
+  .MuiInput-underline::after {
+    border-bottom: 1px solid #4e6b9d !important;
+  }
+  
+  .MuiButton-contained.Mui-disabled {
+    background-color: inherit !important;
+  }
+  
+  .MuiFormHelperText-root {
+    color: red;
+  }
+  
+  .MuiButton-textPrimary:hover {
+    background-color: #335185 !important;
+  }
+  
+  .emptyContainer {
+    flex: 0.3;
+  }
+  
+ 
+  .keypad {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 270px;
+    margin: 0 auto;
+    position: absolute;
+    top: 80%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .keypad-button {
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  

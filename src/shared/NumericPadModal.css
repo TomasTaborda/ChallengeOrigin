@@ -1,0 +1,21 @@
+.keypad-modal {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 270px;
+    margin: 0 auto;
+    position: absolute;
+    top: 80%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .keypad-button-modal {
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
